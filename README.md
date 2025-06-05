@@ -4,7 +4,7 @@ Um simples e divertido jogo da velha (Tic Tac Toe) implementado com JavaFX, onde
 
 ## 📸 Captura de Tela
 
-(Inclua aqui uma imagem do jogo rodando. Ex: assets/screenshot.png)
+![image](src/main/resources/com/game/tictactoe/jogo-da-velha.png)
 
 ## 🚀 Funcionalidades
 
